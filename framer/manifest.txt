@@ -44,6 +44,16 @@ node_modules/@framer/steveruizok.undraw/code/canvas.tsx
 node_modules/@framer/steveruizok.undraw/code/UnDraw.tsx
 node_modules/@framer/steveruizok.undraw/code/Examples.tsx
 node_modules/@framer/steveruizok.undraw/README.md
+node_modules/@framer/krijn.video-player/tsconfig.json
+node_modules/@framer/krijn.video-player/package.json
+node_modules/@framer/krijn.video-player/metadata/icon.png
+node_modules/@framer/krijn.video-player/metadata/artwork.png
+node_modules/@framer/krijn.video-player/dist/index.js
+node_modules/@framer/krijn.video-player/design/document.json
+node_modules/@framer/krijn.video-player/code/canvas.tsx
+node_modules/@framer/krijn.video-player/code/Video.tsx
+node_modules/@framer/krijn.video-player/build/index.js
+node_modules/@framer/krijn.video-player/README.md
 node_modules/@framer/framer.device-skin-apple-iphone-xr-spacegrey/yarn.lock
 node_modules/@framer/framer.device-skin-apple-iphone-xr-spacegrey/package.json
 node_modules/@framer/framer.device-skin-apple-iphone-xr-spacegrey/index.ts
@@ -108,7 +118,6 @@ design/images/OmyjUn4Ze5AZ5eCcLuFI0NVyWI.jpg
 design/images/LDRJGivKDTsMuc9zgRQQcGfpZ8.png
 design/images/Kps9fEen4t17MvPCWduFUaZY.jpg
 design/images/In34KlF7oclEgBeC4GaFp9bKnww.png
-design/images/Hzx1sjpiZgLXOpVQHRGMifeB8.jpg
 design/images/GvY90VZ7Y33icq3i1mEZ0NSortY.jpg
 design/images/Gu5zaSw1KfT9yj2fKtlmikD3xBc.jpg
 design/images/GDkc5kceB45lMWsXpoAHtZKnMIE.jpg
@@ -122,6 +131,7 @@ design/images/4QItXVrRCGxrGFzF2arye4XeRI.jpg
 design/images/4BqbDpIE4WpqfRd5Hfd2TaWK0o.jpg
 design/images/3rrRc7ApwkKBNIrAzmNCLARLBU.png
 design/images/36Dz6jw21vfSaTFmAw9dVCrZQ.jpg
+design/assets/Artboard Copy 2.mp4
 build/vendors.js
 build/framer.js
 index.html
